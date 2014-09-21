@@ -1,3 +1,5 @@
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -103,3 +105,14 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+## Files changed 
+
+1. cachematrix.R
+2. testing script test.R
+
+## Sources used to complete assignment
+1. stackoverflow discussion threads on R programming class 
+2. testing script from blog article http://gmlang.com/blog/how-to-cache-a-matrix-inversion-in-r.html
+
+
